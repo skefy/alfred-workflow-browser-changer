@@ -2,7 +2,7 @@
 今天在  [reddit](https://www.reddit.com/r/macapps/comments/8wr981/safari_extension_open_in_other_browsers_free/) 上看到一个 Safari 插件，作用是在 Safari 上加一个按钮，点击后切换到其他浏览器打开当前页面。 但是这货居然要价 $2.99 ，感觉不值得，所以动手简单实现了一个，就有了今天的这个 Workflow。
 
 ## 功能介绍
-使用快捷键，切换其他浏览器打开当前 Web 页面的。
+使用快捷键，切换其他浏览器打开当前 Web 页面。
 **当前只做了 Safari 和 Chrome 间的相互切换**（因为我没用其他的浏览器😁）。
 
 举例子：
